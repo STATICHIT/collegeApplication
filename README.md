@@ -1,4 +1,4 @@
-# video-app
+# 吉首大学预科志愿填报与综测系统
 
 ## Project setup
 ```
